@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+    importFrom("stats","predict")
+    importFrom("stats", "cor", "rlnorm", "rnorm", "runif")
+    import(neuralnet)
+    import(mirt)
+    import(RWeka)
+
